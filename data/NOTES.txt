@@ -1,0 +1,8 @@
+5GB1c.current.gb:
+	Methylomicrobium buryatense genome (From Mitch, Feb 2019)
+
+ecoli_k12_NC_000913.2.gb
+	E. coli genome to match RegulonDB
+	(https://www.ncbi.nlm.nih.gov/nuccore/NC_000913.2?report=gbwithparts&log$=seqview)
+
+	"Predictions were done in E. coli K12 from the NCBI version: NC_000913.2 (13-FEB-2011)"
